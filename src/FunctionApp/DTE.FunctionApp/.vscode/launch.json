@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach to .NET Functions",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:azureFunctions.pickProcess}"
+    },
+    {
+      "name": "Launch .NET Functions Project",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/bin/Debug/net8.0/DTE.FunctionApp.dll",
+      "args": [
+        "--port",
+        "7151"
+      ],
+      "cwd": "${workspaceFolder}/bin/Debug/net8.0",
+      "stopAtEntry": false,
+      "console": "integratedTerminal",
+      "preLaunchTask": "build (functions)",
+      "env": {
+        "AzureWebJobsScriptRoot": "${workspaceFolder}",
+        "AzureFunctionsJobHost__Logging__Console__IsEnabled": "true"
+      }
+    }
+  ]
+}

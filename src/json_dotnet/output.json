@@ -1,0 +1,1059 @@
+[
+  {
+    "Header": "Across your company, do you have a formal \"return to the office\" policy enacted?  Yes or No \n\n\n\nIssuing Company's Response\n\n\nNo, Ameren currently does not have a formal policy but that may be coming soon",
+    "Files": [
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "AEP would like to know how your IT and control center system operations groups handle system updates, patching, failovers, network changes, etc., of IT equipment in your critical infrastructure environment when the RTOs issue a system advisory or alert. \n\n\n\nIssuing Company's Response\n\n\nAEP cancels all critical electronic system work when these advisory/alerts are issued. However, since some RTOs are now issuing them more regularly, this is becoming an issue because necessary system work is backed up. We are looking for opportunities to allow work during some advisory/alerts and wanted to peer check to see how other utilities handle these situations.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Approximately how many IT policies and procedures do you have? (Only need the number for the largest operating company)\n\n\n\nIssuing Company's Response\n\n\nIT has approximately 150 policies and procedures.",
+    "Files": [
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Are you satisfied with the system, or would you change it if you had the opportunity?\n\n\n\nIssuing Company's Response\n\n\nWe do not have a solution and are not satisfied with our current procedures.",
+    "Files": [
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Are your customer facing call center employees fully back in the office on a consistent basis?  If so, how many days per week?  Or has the COVID/remote environment changed this and are staying predominately remote to stay competitive? \n\n\n\nIssuing Company's Response\n\n\nAmeren's call center employees are in the office 2 days a week on an every other week basis",
+    "Files": [
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Can you briefly describe your process for identifying which applications are impacted by changes to infrastructure (e.g., changes to switches, servers, firewalls)?\n\n\n\nIssuing Company's Response\n\n\nWhen performing core network and infrastructure change activities it is upon the change coordinator to manually gather data points to determine applications within the potential scope of impact. Numerous independent tools assist but it is ultimately up to the individual to identify and communicate proper scope. This approach often results in incomplete scoping and awareness.",
+    "Files": [
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Collector ID",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Custom Data 1",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Do you have a similar BSG system and are allowed to share the control knowledge (e.g., system functional requirements, logic)? If yes, please provide SCE with the information. \n\n\n\nIssuing Company's Response\n\n\nSCE does not have the passwords to get into the PLC logic/code.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have a similar BSG system, either gas or diesel based, and you are using an updated control system? If yes, please share the vendor contact information of the control system. \n\n\n\nIssuing Company's Response\n\n\nSCE does not know of any vendors that can support and/or have expertise in this kind of BSG system.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have an AI Governance program in place, and if not, are you in the process of developing one?\n\n\n\nIssuing Company's Response\n\n\nWe are in the process of evaluating the need of an AI governance program at Southern Company. Based on the outcome of the need analysis, a formal program may be developed.",
+    "Files": [
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have an established list of Vendors classified as Critical to the company?\n\n\n\nIssuing Company's Response\n\n\nYes, we have a list of 10-15 vendors classified at critical.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have insights about conducting a policy and procedures review for the purpose of identifying gaps?\n\n\n\nIssuing Company's Response\n\n\nIT has undergone past internal audits, assessments, and quality reviews, among other evaluations. The scope of these engagements often includes evaluating controls and related policies and procedures. A recent review has not been conducted for the sole purpose of reviewing major IT processes to identify potential gaps in the existence of IT policies and procedures",
+    "Files": [
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have one Change Management team that processes IT changes across your business, Grid and Telecom environments? \n\n\n\nIssuing Company's Response\n\n\nWe have a Change Management team which processes changes for IT business environment and we have a Change Management team which processes changes for our Grid, Telecom, OT environment.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you have SLAs for the remediation of vulnerabilities identified via scanning or other means in applications and/or containers? If so, what are your SLAs?\n\n\n\nIssuing Company's Response\n\n\nCon Edison requires critical and high vulnerabilities identified to be remediated, but we do not yet have formal SLAs and are in the process of developing these. As our standard, we do not permit new container images or apps to be moved to production with high or critical vulnerabilities.",
+    "Files": [
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you purchase Original Equipment Manufacturer (OEM) warranty for hardware (laptops, desktops, rugged devices) and, if so, how many years of warranty do you purchase?\n\n\n\nIssuing Company's Response\n\n\nNiSource adds OEM warranty to the purchase of devices (laptops, desktops, rugged devices). We purchase 3 years of OEM warranty for all devices.",
+    "Files": [
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Do you utilize a managed service to maintain your care center telecom technology?\n\n\n\nIssuing Company's Response\n\n\nNextEra Energy (NEE) utilizes Presidio as a managed service provider. Presidio is responsible for monitoring the switch and responding to any technical alerts created by the switch.",
+    "Files": [
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your backup strategy include a secondary identity provider (IdP) to allow for authentication to continue functioning?  If so, please share deployment details and manufacturer used.\n\n\n\nIssuing Company's Response\n\n\nDuke Energy does not currently have a secondary IdP and is evaluating options.",
+    "Files": [
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your company currently utilize a commercial Customer Identity and Access Management (CIAM) solution to support your digital customer channels? If so, which CIAM product or platform do you use?\n\n\n\nIssuing Company's Response\n\n\nDTE currently leverages a hybrid solution that includes SAP Customer Data Cloud for authentication and internally generated custom security/user tokens.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your company have a critical infrastructure operations group?\n\n\n\nIssuing Company's Response\n\n\nYes, Critical Infrastructure Operations (CIOPS), provides enterprise level support or leadership of IT infrastructure technologies needed for critical business’ operations applications, such as SCADA Systems and Control Center operations, under regulatory compliance requirements (NERC CIP and TSA) and specific Cybersecurity Standards.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your company have a process that allows Change Tasks within Request for Change records that are not included in the Change Window, like pre and post change tasks?\n\n\n\nIssuing Company's Response\n\n\nNo.  The current process varies to include Change Tasks that are pre-change tasks, implementation, validation, monitoring  and other post change tasks within the Change Window.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your company have a process to address modifications to Change Windows after CAB approval in Request for Change records?\n\n\n\nIssuing Company's Response\n\n\nYes, but rarely approved.1) Place the Request for Change on hold.2) Assess the new implementation date, if feasible.3) Allow the requestor to update the Planned End Date.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your company scan barcodes (not QR codes or RFID/proximity codes) on badges for access to the Owner Controlled Area at one or more Nuclear sites? \n\n\n\nIssuing Company's Response\n\n\nYes, Dominion scans barcodes at the Forward Access Points at two sites.",
+    "Files": [
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your OEM warranty cover you through the hardware/PC lifecycle program?\n\n\n\nIssuing Company's Response\n\n\nNiSource's hardware/PC lifecycle program currently covers 4 years, and our OEM warranty only covers 3 years.",
+    "Files": [
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your QA system support all elements of the invoice?\n\n\n\nIssuing Company's Response\n\n\nXcel's QA system accommodates all base rates, riders, and taxes. However, certain variable unmetered charges are not incorporated within the QA system.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your utility have information regarding vendors and their corresponding contact information that have expertise in BSG control systems? If yes, please share. \n\n\n\nIssuing Company's Response\n\n\nSCE does not know of any vendors that can support and/or have expertise in this kind of BSG system.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your utility have information regarding vendors and their corresponding contact information that might be able to help with extracting the code from the Schneider PLC? If yes, please share. \n\n\n\nIssuing Company's Response\n\n\nSCE does not know of any vendors that might be able to help extract the code from the Scheneider PLC.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Does your utility have regarding vendors and their corresponding contact information that might be able to build the control system from scratch (first-time engineering)? If yes, please share. \n\n\n\nIssuing Company's Response\n\n\nSCE does not know of any vendors that can do first-time engineering for these kind of BSG system.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "DTE currently uses VantagePoint application to transform our PI Historian data to usable data for analytics, but it needs to be replaced. What application do you use above and beyond your controls software for trending and reporting?\n\n\n\nIssuing Company's Response\n\n\nDTE currently uses VantagePoint application to transform our SCADA data to usable data for analytics. This application collects and aggregates the information from each plant allowing us to perform analytics for each plant and across different plants.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Email Address",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "End Date",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Explain the backup communication strategy for corporate users if an extended outage to your primary platform occurs.\n\n\n\nIssuing Company's Response\n\n\nDuke Energy has an active effort underway to create, document and test a plan of action if a Microsoft outage occurs. Currently our critical functions have multiple redundant communication platforms but corporate users only have Microsoft Teams for internal calling and chat. Cell phones would be used in the event Teams is experiences an outage.",
+    "Files": [
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Explain the primary communication platform for your organization for both internal calling and chat.\n\n\n\nIssuing Company's Response\n\n\nDuke Energy uses Microsoft Teams for internal calling and chat.",
+    "Files": [
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "First Name",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "For 1099-NEC and 1099-Misc reporting, how is a supplier’s state residency and state where work was performed determined?\n\n\n\nIssuing Company's Response\n\n\nEntergy uses the supplier’s W9 to determine the state residency. Entergy uses the accounting charge codes on supplier invoices in Peoplesoft Financials (i.e., physical location code assigned at the invoice level) to determine where the work was performed.",
+    "Files": [
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "For those contractors requiring physical/logical access which may be in your various applications (like security) versus those who may be working on your Company's behalf (as an outside contractor for example) without access (e.g., vegetation management) to site/work locations, etc., please explain how you track or prohibit barred employees from working on behalf of your organization.  \n\n\n\nIssuing Company's Response\n\n\nAt Exelon, a manual review process occurs for contractors requiring physical/logical access but a limited review is currently performed by Exelon for those contractors without access to site/work locations.",
+    "Files": [
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Given AI Governance is a cross-functional team, where does the AI Governance program report to in the organization (i.e. General Counsel, CCO, CIO, other, etc.)?\n\n\n\nIssuing Company's Response\n\n\nWe are still determining the organizational structure and hierarchy of a formal Governance program. Various functions within the organization are engaged to determine the reporting, value, and responsibilities of the proposed governance.",
+    "Files": [
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Have you developed a comprehensive view of security maturity that integrates various cybersecurity risk management outcomes?\n\n\n\nIssuing Company's Response\n\n\nNo, but we are actively working on how to calculate a single score based on multiple parameters across security risk. We are discussing (a) the factors in the calculation and (b) how each factor should be weighted. We need to track the score over time with the ability to filter it to any business unit, collection of assets, single asset, or include all assets and programs.",
+    "Files": [
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Have you migrated or are you considering migration of any of your Process Control/SCADA (OT) systems to cloud offerings or hosting them in any type of cloud service or model? (ex. SaaS, PaaS, IaaS)\n\n\n\nIssuing Company's Response\n\n\nWe have not migrated any OT apps to the cloud. We are not considering any migrations at this time.",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Have you used or explored the use of the Cisco ECN (Expert Care National) service to mitigate TAC data from being access by Cisco TAC employees outside of the United States? \n\n\n\nIssuing Company's Response\n\n\nWe are currently looking into adding this option to our Smartnet contract.",
+    "Files": [
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How do you handle processing a supplier’s 1099 state income when more than two states require reporting?\n\n\n\nIssuing Company's Response\n\n\nEntergy's system will only allow a supplier’s TIN to be used once for filing/reporting income, therefore we manually handwrite the second state income on the 1099 NEC form. If there is a third state for a supplier, we will manually create an additional form in eforms.",
+    "Files": [
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How do you incorporate Operational Technology (OT) with your Enterprise Service Management/Delivery operating model? Have you done any automation (e.g. discovery, integration)?\n\n\n\nIssuing Company's Response\n\n\nWe have not implemented an automation solution yet. We can manually import the OT assets, however, there is significant administrative overhead in managing a manual lifecycle.",
+    "Files": [
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How do you measure the success of your Change Management Team?\n\n\n\nIssuing Company's Response\n\n\nCurrently, we have a Change Success Rate metric; however, that metric does not truly measure the success of the Change Mgmt team as we are not the Change Implementers. We are trying to identify a more appropriate metric.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How do you validate the security of container images before deploying them?\n\n\n\nIssuing Company's Response\n\n\nCon Edison leverages Microsoft Defender for container scanning. We are also conducting a POC with Prisma for container scanning. Our planned process is to not allow images with critical or high vulnerabilities to be moved into production.",
+    "Files": [
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How does your company currently manage the relationships between different assets (e.g., switches, servers, applications, firewalls)?\n\n\n\nIssuing Company's Response\n\n\nEffort is very manual by pulling data points from different systems together. Strategic transition from Remedy to ServiceNow has recently been completed. There is no internal feature in Service Hub that does an impact analysis against the CI's/Assets, same as what Remedy had. In Remedy, we used an external tool called streamline, but that vetted against remedy, and wasn't an option to vet against Service Hub. Staff are instead directed to use Reveal(internal built asset management tool) to find out any upstream/downstream impacts on CI's/Assets. They can also look at the assets (business applications & application services) in Service Hub(through Service NOW Discovery). However, it does not capture all types of assets.",
+    "Files": [
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How does your company define the activities that are included in the “Change Window” of Request for Change records?\n\n\n\nIssuing Company's Response\n\n\nIt varies up to total time for pre-change tasks, implementation, validation, monitoring, and other post change tasks.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How does your company handle processing and filing of 1099-NEC and 1099-Misc for multi-state reporting for a supplier – do you leverage a system/application or do you use a third-party service provider? Please provide the name of the application or service provider’s name\n\n\n\nIssuing Company's Response\n\n\nEntergy uses PeopleSoft Financials to process federal and state 1099s; however, the system has limitations in reporting multi-state income for a supplier, which requires manual workarounds and interventions in order to process accurately.",
+    "Files": [
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How does your document control software system prevent two people or groups from editing the same drawings at the same time, thereby introducing conflicting versions?\n\n\n\nIssuing Company's Response\n\n\nWe do not have a version control solution.",
+    "Files": [
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How has your organization implemented the CSDM model? If you haven’t implemented CSDM, why haven’t you?\n\n\n\nIssuing Company's Response\n\n\nOur company conducted a pilot using a service-oriented strategy, collaborating with a specific business unit to outline their business services and associated offerings. Additionally, we utilized Portfolio Management to empower service owners to track key performance indicators (KPIs) based on services and offerings.",
+    "Files": [
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How have major Cloud IaaS vendors like AWS/Azure/GCP/Oracle strategically aligned themselves to cater to the needs of utilities? What have they done specifically for utilities and how have you benefitted from their services?\n\n\n\nIssuing Company's Response\n\n\nAWS and Azure have helped our company by providing: 1. Scalable, elastic and high-performance computing infrastructure and services. 2. Helped in the adoption of agile and DevSecOps practices and to implement infrastructure as code and policy as code. 3. They have helped us to consolidate and build analytics tools that provide near real time information on equipment failures, power outages and helped gather customer feedback. 4. Provide scalable solutions that can adjust based on the utility's operational requirements, seasonal demand fluctuations, or unexpected surges.",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How have the major cloud providers (AWS/Azure/GCP/Oracle) made interoperability of public cloud and on-prem/Datacenters easier? What do they have that makes this integration and interoperability smoother?\n\n\n\nIssuing Company's Response\n\n\nThese cloud vendors have made services such as Azure HCI and AWS Outpost, that bring the cloud capabilities to on-prem. They have integration with identity, access management and directory services that make integration with security policies seamless.",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How is the support group structured?\n\n\n\nIssuing Company's Response\n\n\nAt NEE the Application Support group owns the technical support of the switch and the relationship with Presidio. However, the customer service business unit also has technical staff who work on utilizing the switch for skilling and routing as well as some automation tied to those functions. The Customer service staff also handles complex reporting requirements on switch utilization.",
+    "Files": [
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How is your test system updated to stay current with the production rates and components?\n\n\n\nIssuing Company's Response\n\n\nXcel manually updates the quality assurance (QA) system and does a rate compare daily to look for changes in either environment.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "How often do you conduct reviews on the Vendors on the Critical Vendor List?\n\n\n\nIssuing Company's Response\n\n\nVendors on the Critical Vendor List are reviewed regularly during QBR's and recalibrated annually.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If a smartphone (or iOS device) is used, what software is used to scan the badges from the device. \n\n\n\nIssuing Company's Response\n\n\nDominion does not currently use a smart phone.",
+    "Files": [
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If needed, can the issuing company contact you directly to discuss your responses further?",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "If yes, how do you categorize or identify which vendors should be a part of the list?\n\n\n\nIssuing Company's Response\n\n\nWe evaluate the specifics of the vendors services provided, project dependency, and company spend and determine level of criticality.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If yes, what device(s) are used by your company for barcode scanning? Please specify brand and model, and operating system (if known).\n\n\n\nIssuing Company's Response\n\n\nDominion currently uses Intermec CN51 devices. They use a Microsoft Windows operating system.",
+    "Files": [
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If yes, which organization does CIOPS fall under?\n\n\n\nIssuing Company's Response\n\n\nCIOPS is under IT Operations and Infrastructure",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If you currently use VantagePoint, what are you doing when it goes out of service in 2025?\n\n\n\nIssuing Company's Response\n\n\nDTE is unsure of our direction. If VantagePoint was not going out of service, DTE would continue to use this tool.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If you have a formal \"return to office\" policy in place, is it consistent across all functions/organizations in your company and how many days per week?  \n\n\n\nIssuing Company's Response\n\n\nN/A",
+    "Files": [
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If you have attempted colocation for your data center infrastructure, what was the outcome and were you successful in moving your data center to a colocation facility? \n\n\n\nIssuing Company's Response\n\n\nSCE is currently exploring colocation options as part of our cost optimization efforts and is seeking insights and experiences from UNITE members regarding their use of such facilities.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If you use ECN (Expert Care National) has there been any issues?\n\n\n\nIssuing Company's Response\n\n\nWe do not use.",
+    "Files": [
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "If your utility is considering or currently performing integrated system planning across generation, distribution, and transmission, what software are you considering or using? \n\n\n\nIssuing Company's Response\n\n\nWe have just started to investigate integrated system planning and are identifying potential benefits to the business. We are in the early stages of identifying the existing processes and software that the planning groups use to see how they'd need to be integrated.",
+    "Files": [
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Infrastructure changes carry differing levels of risk to user performance. Describe how end user performance risk is identified and communicated during the change planning process.\n\n\n\nIssuing Company's Response\n\n\nService Hub does have weighted(risk analysis) questions on CHG's (same as it was in remedy) that are segmented by the operational category. The IT Fulfiller chooses (telecom, nuclear, applications, infrastructure and security) the category for the questions set and the responses given by the input from the IT Fulfiller then determines true weight of the CHG. Additionally, some departments have weekly meetings to present all changes to their leadership and teams inside department. We also hold weekly change advisory meeting where each IT department presents all high risk changes to each other.On communication side, depending on the change and risk analysis of each change, emails get send out to either business partners, or other IT departments to raise awareness of high risk changes that could potentially be very impactful.",
+    "Files": [
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "IP Address",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Is there a technical solution such as a custom application, system, or vendor product (ex: SaaS) used to track barred employees? If yes, please provide details.\n\n\n\nIssuing Company's Response\n\n\nNot at this time",
+    "Files": [
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Is your switch and Interactive Voice Response (IVR) inhouse or managed as a Software as a Service (SAAS) solution?\n\n\n\nIssuing Company's Response\n\n\nNEE currently utilizes a Cisco switch tied with a Nuance IVR that is hosted and maintained internally and within our Amazon Web Services (AWS) environment. We are investigating utilizing a SAAS switch technology (Amazon Connect) in our future technology roadmap.",
+    "Files": [
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Last Name",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Please Provide Your Contact Information",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Please see the Business Driver for this survey that describes our Load Analysis process/solution. Please provide a narrative description of your process and solution(s).\n\n\n\nIssuing Company's Response\n\n\nFor 4-12kV planning, Ameren uses an in house developed program called Load Analysis. Load analysis holds all normal and emergency ratings for every substation transformer and feeder. After each summer or winter season, the peak temperature day is identified and the loading data for all feeders and substation is pulled out of our SCADA historian for that day. That data is then pushed into Load Analysis. The Engineer inputs the expected load growth, DER penetration, future projects, and other diversions on each feeder and substation into Load Analysis. A report is then generated that shows every feeder and substation load projection for the next 5 years.The distribution load projections are then summed up to the sub-transmission level (34-69kV) and put into PSS/E. The engineer runs PSS/E power flow analysis and manually inputs the resulting load projections for the next 5 years onto an excel spreadsheet.",
+    "Files": [
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Please Select A Decline Reason Below If You Are Unable To Respond To This Survey.  If You Have No Objections To This Survey, Please Skip This Section And Select \"Done\" At The Bottom Of This Page.",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Respondent ID",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "Start Date",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  },
+  {
+    "Header": "What advice would you give to others considering a similar move to a colocation facility? \n\n\n\nIssuing Company's Response\n\n\nSCE is actively seeking insights and advice from Unite team members regarding the colocation hosting of its data center infrastructure.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What are some of the specific services and offering or capabilities that the major cloud infrastructure vendors (AWS/Azure/GCP/Oracle) provide for utilities and which ones have you used?\n\n\n\nIssuing Company's Response\n\n\n1. Energy Competency Partner Program: This program identifies and validates AWS Partners with proven experience and success in delivering solutions for the energy industry, including grid modernization, renewable energy integration, and customer engagement. 2. Energy Solutions: Pre-built solutions for specific use cases like Advanced Metering Infrastructure (AMI) data management, grid optimization, and energy trading. These solutions accelerate deployment and reduce complexity. 3. Location Service: Provides location-based services, including maps, geofencing, and tracking, which can be used for asset tracking, workforce management, and optimizing field operations. 4. Energy Data Services: A specialized platform for ingesting, processing, and analyzing energy data from various sources, including smart meters, grid sensors, and weather data. This helps utilities gain insights into energy consumption patterns and grid performance.",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What back-end technologies and tools are used to support the Electric/Gas new construction/alteration process by business users to generate quotes, obtain builders’ or homeowners’ e-signatures, and accept payments? Please specify the technologies used.\n\n\n\nIssuing Company's Response\n\n\nCurrently, DTE uses different back-end applications to support the new construction/alteration process. The solutions are not integrated end-to-end.Work Management: Maximo / Documentum is used for both Electric and GasSales Invoice: SAP ERP for Electric and ISU - FICA for Gas.Quote Generation: Custom application for generating quote for electric, excel spreadsheets are used for Gas.",
+    "Files": [
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What business functions are represented as stakeholders on the AI Governance board / committee (i.e. compliance, legal, technology, security, customer service, power delivery, supply chain, etc.)?\n\n\n\nIssuing Company's Response\n\n\nWe are still determining the composition and layers of the AI governance required at Southern to manage business, legal, regulatory, and technology risks with AI.",
+    "Files": [
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What business needs does the solution(s) described in Question 4 address?\n\n\n\nIssuing Company's Response\n\n\nXcel's solutions address Third-party security risk management, project-related (pre-deployment) risk analysis, post-deployment (production) risk management, quantified risk scenario management, and findings and exceptions management.",
+    "Files": [
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What controls have you put in place to address Cisco TAC case data from being accessed by engineers outside of the United States such as China?\n\n\n\nIssuing Company's Response\n\n\nLooking into ECN at this time.",
+    "Files": [
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What document control software system do you use to manage your drawings of grid facilities:1. Power generating stations2. Substations3. Power lines\n\n\n\nIssuing Company's Response\n\n\nTECO does not have a company-wide solution. Energy Delivery uses OpenText and Energy Supply uses electronic drawing files maintained on a network drive and tracked using an Access database.",
+    "Files": [
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What factors do you consider when determining whether to migrate an application or infrastructure workload to the cloud?\n\n\n\nIssuing Company's Response\n\n\nA. Availability of functionality or servicesB. Business ContinuityC. Integration with our existing portfolioD. CostE. ReliabilityF. SecurityG. Compliance requirements",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What features does your CIAM provide today? Does customer privacy, consent and preference management fall within your CIAM?\n\n\n\nIssuing Company's Response\n\n\nToday, SAP CDC only provides customer (B2C & B2B) ID/password authentication. Our current implementation does not manage privacy, consent or preferences; however, we are considering whether to require those features of our future-state solution.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What front-end technologies are used to offer self-service capabilities for builders / homeowners, such as submitting requests, checking status, making payments, and uploading documents?\n\n\n\nIssuing Company's Response\n\n\nDTE offers only assisted channel for new service / alteration requests and status checks. We are exploring tools and options to enable the self-service capabilities. Currently, customers submit documents via email.There is limited online payment capability for construction charges. Builders primarily pay via checks. There is limited credit card payment acceptance using the SwipeSimple (SaaS) solution, which has a cap limit on the amount of payment.",
+    "Files": [
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What group owns the management of the technology for the switch?\n\n\n\nIssuing Company's Response\n\n\nAt NEE the Application Support group owns the contract with Presidio and works with the corporate network group where appropriate. The Application support group has a network engineer within their support group to provide first level network support also.",
+    "Files": [
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What is the job description and duties?\n\n\n\nIssuing Company's Response\n\n\nDescription:Based on level: Provide enterprise level support or leadership of IT infrastructure technologies needed for critical business’ operations applications, such as SCADA Systems and Control Center operations, under regulatory compliance requirements (NERC CIP and TSA) and specific Cybersecurity Standards. These technologies include, but are not limited to automation platforms, workstations, physical and virtual servers, storage, remote access functionality, and a variety of operations and business critical software solutions. Integrate software to enable usage, support, monitoring, cybersecurity and regulatory compliance of various hardware and software technologies. Develop and maintain routine work procedures and define standard installation and upgrade methodologies. Responsibilities may include evaluation, acquisition, installation, integration testing, upgrading components and performance monitoring. Duties· Plans, designs, installs and/or supports critical computer systems in highly regulated and secure environment. Facilitates technical and business planning for upgrades in coordination with key business functions and control centers. Provides technical and compliance guidance related to critical infrastructure support software and hardware to members of the IT staff.· Develops (or assists in developing) functional standards for critical infrastructure software and hardware. Assists in the design and implementation of required systems that meet functional and compliance requirements for critical control center operations.· Integrates critical infrastructure software and hardware configurations to maximize operational reliability and performance and maintain regulatory compliance.· Coordinates critical infrastructure hardware and software upgrades with control centers, business support teams and other areas of IT or other business units.· Prepares activity and progress reports regarding individual and project activity.· Keeps abreast of new hardware, software, and compliance developments, evaluates alternative approaches, and recommends new hardware technologies, software or upgrades which enhance operational reliability and process efficiencies.",
+    "Files": [
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What is your cloud strategy for managing dynamic and serverless compute within a CMDB?\n\n\n\nIssuing Company's Response\n\n\nWe are in the early phases of forming our strategy. Dynamic and serverless computing pose a unique challenge for our support and cyber operation teams whereby they rely on information in a centralized system of record to conduct ITOps and SecOps functions. The desire is to use the CMDB as the system of record and source of truth for all systems utilizing network resources and managing dynamic and serverless computing needs to be more consistent and reliable.",
+    "Files": [
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What is your current cloud deployment strategy (Cloud or On-premises) for the following applications or workloads? A. Employee ProductivityB. ERPC. Customer SystemsD. Work ManagementE. GISF. OT/SCADAG. Full Infrastructure IaaS DeploymentH. Other\n\n\n\nIssuing Company's Response\n\n\nA. Microsoft 365 in cloudB. Oracle Fusion in cloudC. Oracle C2m on-premisesD. IBM Maximo on-premisesE. ESRI on-premisesF. Multiple systems on-premisesG. Evaluating IaaS offeringsH. None",
+    "Files": [
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What percent of Changes (CRQs) are submitted as expedited?\n\n\n\nIssuing Company's Response\n\n\nLess than 5% of changes are submitted as expedited.",
+    "Files": [
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What policy management system do you use for IT policies and procedures? Please reply with the name of the system used and if it was internally developed or is based on SharePoint or another content management system.\n\n\n\nIssuing Company's Response\n\n\nCon Edison uses a cloud-based system known as NAVEX, “PolicyTech.” The company NAVEX offers other GRC software applications. At this time, Con Edison uses only their PolicyTech Policy Management System. Various departments within Con Edison use internally-developed SharePoint sites for policy management. IT has an internally developed SharePoint site and will be moving to PolicyTech and eventually retire IT’s SharePoint site.",
+    "Files": [
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What self-service tools are you offering to builders/homeowners for Electric/Gas new construction/alteration services?\n\n\n\nIssuing Company's Response\n\n\nCurrently DTE does not offer Electric/Gas self-service tools for new construction/alteration services to builders / homeowners. We are exploring options to offer an integrated end-to-end solution.",
+    "Files": [
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What software do you use for 4-12KV and/or 34-69kV load forecasting and does it allow for scenarios (analyzing multiple future states with different assumptions on external factors ex: high eV with low DER or low eV with low DER)? \n\n\n\nIssuing Company's Response\n\n\nAmeren uses our in-house developed software, Load Analysis, for 4-12kV planning. For 34-69kV planning we pull data from PSS/E onto excel spreadsheets to identify overloads and resulting projects. Our planning process does not currently include multiple scenarios.",
+    "Files": [
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What solution(s) do you currently use for security risk management (this includes risk identification and gap assessments, analysis, and prioritization)?\n\n\n\nIssuing Company's Response\n\n\nWe use Fortress for third-party assessments, spreadsheets and other documents for asset and process assessments, Archer for analysis and prioritization, and Axio for quantified risk scenario analysis.",
+    "Files": [
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What solutions do you have for challenges that are faced with managed sites that you do not fully own, especially if they have limited connectivity?\n\n\n\nIssuing Company's Response\n\n\nDTE has fully owned locations and managed locations with limited connectivity. For those with limited connectivity, there is a local historian and local VantagePoint server. Analytics for those plants can only be performed within that local plant.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What type of system do you utilize to audit and/or validate the accuracy of daily invoices? Is it a standalone external system that is manually maintained (but not synchronized) instance of your production core billing application or another approach? Please identify.\n\n\n\nIssuing Company's Response\n\n\nXcel operates an independent system that is manually synchronized to reflect the billing operations of the core billing system. This separate system retrieves a daily batch file containing the expected billings from the core billing system. It then compares the billing projections from the core system with those from the quality assurance (QA) system to confirm no unexpected changes have occurred in the core system.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What were your key criteria when evaluating colocation providers? \n\n\n\nIssuing Company's Response\n\n\nSCE is actively seeking insights and advice from Unite team members regarding the colocation hosting of its data center infrastructure.",
+    "Files": [
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "What, if anything, does your organization do to ensure barred employees are not hired by suppliers you do business with as contractors? \n\n\n\nIssuing Company's Response\n\n\nManual review",
+    "Files": [
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Which alternatives were considered when selecting a CIAM and why did you select the product/platform you selected?\n\n\n\nIssuing Company's Response\n\n\nWe are considering ForgeRock, Okta/Auth0 and SAP Customer Data Cloud as alternatives for our potential future state solution. SAP was initially selected in 2020 based on compatibility with our SAP-based billing system.",
+    "Files": [
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx"
+    ],
+    "FileCount": 1
+  },
+  {
+    "Header": "Which Company Do You Represent?",
+    "Files": [
+      "UNITE OT Survey Level 2 - Generation Black Start Generator Controls System UpgradeRefresh - Due 02062024.xlsx",
+      "UNITE Survey CIO 1 - Return to the Office 2024 Update - Due 02072024.xlsx",
+      "UNITE Survey CIO 2 - Managed Service Support of Customer Service Call Center Switch - Due 06102024.xlsx",
+      "UNITE Survey Level 1 - 1099 Income Reporting - Due 07112024.xlsx",
+      "UNITE Survey Level 1 - AI Governance Program - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Application  Container Vulnerability Management - Due 06272024.xlsx",
+      "UNITE Survey Level 1 - Asset Management Practices and Identification of Change Risk - Due 08132024.xlsx",
+      "UNITE Survey Level 1 - Backup Communication Platform for Enterprise - Due 02272024.xlsx",
+      "UNITE Survey Level 1 - Badge Barcode Scanners - Due 08202024.xlsx",
+      "UNITE Survey Level 1 - Barred Employee Hiring and Application Access - Due 02222024.xlsx",
+      "UNITE Survey Level 1 - Calculating Cybersecurity Risk Maturity - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Change Management Metrics - Due 12172024.xlsx",
+      "UNITE Survey Level 1 - Change Management Windows - Due 01172024.xlsx",
+      "UNITE Survey Level 1 - Cisco ECN Expert Care National - Due 04112024.xlsx",
+      "UNITE Survey Level 1 - CITE Software Use and Standard Operating Procedures - Due 12192024.xlsx",
+      "UNITE Survey Level 1 - Cloud Deployment Strategy - Due 05212024.xlsx",
+      "UNITE Survey Level 1 - Cloud Provider Suitability and Positioning for Utilities - Due 12102024.xlsx",
+      "UNITE Survey Level 1 - CMDB CSDM and Operational Technology Processes - Due 02152024.xlsx",
+      "UNITE Survey Level 1 - Critical Infrastructure Operations Leadership and Support staff - Due 04092024.xlsx",
+      "UNITE Survey Level 1 - Critical IT System changes during RTO AdvisoryAlerts - Due 11132024.xlsx",
+      "UNITE Survey Level 1 - Critical Vendor List - Due 01242024.xlsx",
+      "UNITE Survey Level 1 - Customer Billing System SOX Quality Assurance Controls - Due 08082024.xlsx",
+      "UNITE Survey Level 1 - Customer Identity and Access Management CIAM - Due 09262024.xlsx",
+      "UNITE Survey Level 1 - Data Center Colocation - Due 05022024.xlsx",
+      "UNITE Survey Level 1 - Data Visualization and CollectionAggregation for Operational SCADA data - Due 04252024.xlsx",
+      "UNITE Survey Level 1 - Distribution Planning Software - Due 07092024.xlsx",
+      "UNITE Survey Level 1 - Drawings and Diagrams Management System - Due 02012024.xlsx",
+      "UNITE Survey Level 1 - Electric  Gas New Service  Alteration for Construction - Due 09192024.xlsx",
+      "UNITE Survey Level 1 - End User Device Warranty Information - Due 06252024.xlsx"
+    ],
+    "FileCount": 29
+  }
+]
