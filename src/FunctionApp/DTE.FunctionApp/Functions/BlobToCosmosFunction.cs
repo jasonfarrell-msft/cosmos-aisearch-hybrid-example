@@ -34,14 +34,15 @@ namespace DTE.FunctionApp.Functions
                 var cosmosDocuments = surveyResponses?.Select((response, index) => 
                 {
                     var document = new Dictionary<string, object>(response);
-                    
-                    // Generate deterministic ID using RespondentID and CollectorID
-                    var respondantId = response.GetValueOrDefault("RespondentID")?.ToString() ?? throw new Exception("no field 'RespondentID' in JSON");
-                    var collectorId = response.GetValueOrDefault("CollectorID")?.ToString() ?? throw new Exception("no field 'CollectorID' in JSON");
+
+                    // Generate deterministic ID using Respondent ID and Collector ID
+                    var respondantId = response.GetValueOrDefault("Respondent ID")?.ToString() ?? throw new Exception("no field 'Respondent ID' in JSON");
+                    var collectorId = response.GetValueOrDefault("Collector ID")?.ToString() ?? throw new Exception("no field 'Collector ID' in JSON");
                     var deterministicId = GenerateDeterministicId(respondantId, collectorId);
                     
                     document["id"] = deterministicId;
-                    
+                    document["surveyName"] = Path.GetFileNameWithoutExtension(name);
+
                     // Add metadata
                     document["sourceFile"] = name;
                     document["processedAt"] = DateTime.UtcNow;

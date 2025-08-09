@@ -14,9 +14,12 @@ public class Program
         var builder = FunctionsApplication.CreateBuilder(args);
 
         builder.ConfigureFunctionsWebApplication();
-        // Ensure IExcelToJsonService is defined in your project and the correct using directive is present above
+
         builder.Services.AddScoped<IExcelToJsonService, ExcelToJsonService>();
-    
+        builder.Services.AddScoped<RespondentDataService>();
+        builder.Services.AddScoped<QuestionAnswerDataService>();
+        builder.Services.AddScoped<ISearchIndexService, AzureSearchIndexService>();
+        builder.Services.AddScoped<IChatService, AzureOpenAiChatService>();
 
         // Application Insights isn't enabled by default. See https://aka.ms/AAt8mw4.
         // builder.Services

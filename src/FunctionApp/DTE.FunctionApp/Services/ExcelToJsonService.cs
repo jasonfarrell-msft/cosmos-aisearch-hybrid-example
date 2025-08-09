@@ -61,7 +61,6 @@ namespace DTE.FunctionApp.Services
                         var cell = worksheet.Cells[row, col];
                         var cellValue = cell.Value;
                         var header = headers[col - 1];
-                        var cleanHeader = header.Replace(" ", ""); // Remove spaces from header names
 
                         if (cellValue != null)
                         {
@@ -74,30 +73,27 @@ namespace DTE.FunctionApp.Services
                                 {
                                     // Convert Excel date serial number to DateTime
                                     var dateValue = DateTime.FromOADate((double)cellValue);
-                                    rowData[cleanHeader] = dateValue.ToString("yyyy-MM-dd");
+                                    rowData[header] = dateValue.ToString("yyyy-MM-dd");
                                 }
                                 catch
                                 {
                                     // If conversion fails, keep the original value
-                                    rowData[cleanHeader] = cellValue;
+                                    rowData[header] = cellValue;
                                 }
                             }
                             else
                             {
-                                rowData[cleanHeader] = cellValue;
+                                rowData[header] = cellValue;
                             }
                         }
                         else
                         {
-                            rowData[cleanHeader] = null;
+                            rowData[header] = null;
                         }
                     }
 
                     // Only add rows that have at least some data and have a valid Respondent ID
-                    if (hasData)
-                    {
-                        data.Add(rowData);
-                    }
+                    data.Add(rowData);
                 }
 
                 // Filter out records where Respondent ID is null or empty
@@ -105,10 +101,10 @@ namespace DTE.FunctionApp.Services
                 {
                     // Check for various possible Respondent ID column names (case insensitive, without spaces)
                     var respondentIdKeys = row.Keys.Where(k => 
-                        k.Equals("RespondentID", StringComparison.OrdinalIgnoreCase) ||
-                        k.Equals("RespondantID", StringComparison.OrdinalIgnoreCase) ||
-                        k.Equals("respondentId", StringComparison.OrdinalIgnoreCase) ||
-                        k.Equals("respondantId", StringComparison.OrdinalIgnoreCase)
+                        k.Equals("Respondent ID", StringComparison.OrdinalIgnoreCase) ||
+                        k.Equals("Respondant ID", StringComparison.OrdinalIgnoreCase) ||
+                        k.Equals("respondent Id", StringComparison.OrdinalIgnoreCase) ||
+                        k.Equals("respondant Id", StringComparison.OrdinalIgnoreCase)
                     ).FirstOrDefault();
 
                     if (respondentIdKeys != null)
