@@ -3,7 +3,8 @@ name: Deploy to Azure Static Web App
 # Trigger the workflow only on push to main branch with changes to src/website
 on:
   push:
-    branches: [ main ]
+    branches:
+    - main
     paths:
       - 'src/website/**'
   workflow_dispatch:
