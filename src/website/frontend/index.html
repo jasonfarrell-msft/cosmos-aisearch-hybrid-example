@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNITE Survey Search</title>
+    <link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>UNITE Survey Search</h1>
+        
+        <div class="query-section">
+            <label for="queryInput">Enter your query:</label>
+            <div class="input-container">
+                <input type="text" id="queryInput" placeholder="Type your query here..." />
+                <button class="search-button" id="submitQuery">🔍</button>
+            </div>
+        </div>
+
+        <div class="results-section" id="resultsSection">
+            <div class="query-display">
+                <h3>Your Query:</h3>
+                <div class="query-text" id="displayQuery"></div>
+            </div>
+            
+            <div class="loading-container" id="loadingContainer">
+                <div class="spinner"></div>
+                <div class="loading-text">Processing your query...</div>
+            </div>
+            
+            <div class="response-container" id="responseContainer">
+                <h3>✨ Response:</h3>
+                <div class="response-text" id="responseText"></div>
+            </div>
+            
+            <div class="error-container" id="errorContainer">
+                <h3>⚠️ Error:</h3>
+                <div class="error-text" id="errorText"></div>
+            </div>
+            
+            <button class="clear-button" id="clearButton">Clear Query</button>
+        </div>
+    </div>
+
+    <script>
+        const queryInput = document.getElementById('queryInput');
+        const submitButton = document.getElementById('submitQuery');
+        const resultsSection = document.getElementById('resultsSection');
+        const displayQuery = document.getElementById('displayQuery');
+        const loadingContainer = document.getElementById('loadingContainer');
+        const responseContainer = document.getElementById('responseContainer');
+        const errorContainer = document.getElementById('errorContainer');
+        const responseText = document.getElementById('responseText');
+        const errorText = document.getElementById('errorText');
+        const clearButton = document.getElementById('clearButton');
+
+        // Configuration - update this URL to point to your backend
+        const BACKEND_URL = 'https://your-backend-api.com/query';
+
+        function hideAllResponses() {
+            loadingContainer.classList.remove('show');
+            responseContainer.classList.remove('show');
+            errorContainer.classList.remove('show');
+        }
+
+        function disableInput() {
+            queryInput.disabled = true;
+            submitButton.disabled = true;
+            submitButton.style.opacity = '0.6';
+        }
+
+        function enableInput() {
+            queryInput.disabled = false;
+            submitButton.disabled = false;
+            submitButton.style.opacity = '1';
+        }
+
+        async function sendQuery(query) {
+            try {
+                const response = await fetch(BACKEND_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ query: query })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                throw error;
+            }
+        }
+
+        async function handleSubmit() {
+            const query = queryInput.value.trim();
+            
+            if (!query) {
+                return;
+            }
+
+            // Clear previous responses and show query
+            hideAllResponses();
+            displayQuery.textContent = query;
+            resultsSection.classList.add('show');
+            
+            // Show loading state
+            loadingContainer.classList.add('show');
+            disableInput();
+
+            try {
+                // Send query to backend
+                const result = await sendQuery(query);
+                
+                // Hide loading and show response
+                loadingContainer.classList.remove('show');
+                responseText.textContent = result.response || result.answer || JSON.stringify(result, null, 2);
+                responseContainer.classList.add('show');
+                
+                // Success animation
+                submitButton.style.background = 'linear-gradient(135deg, #51cf66, #40c057)';
+                setTimeout(() => {
+                    submitButton.style.background = 'linear-gradient(135deg, #667eea, #764ba2)';
+                }, 500);
+                
+            } catch (error) {
+                // Hide loading and show error
+                loadingContainer.classList.remove('show');
+                errorText.textContent = `Failed to get response: ${error.message}`;
+                errorContainer.classList.add('show');
+                
+                console.error('Query failed:', error);
+                
+                // Error animation
+                submitButton.style.background = 'linear-gradient(135deg, #ff6b6b, #ee5a52)';
+                setTimeout(() => {
+                    submitButton.style.background = 'linear-gradient(135deg, #667eea, #764ba2)';
+                }, 500);
+            } finally {
+                enableInput();
+            }
+        }
+
+        function clearQuery() {
+            queryInput.value = '';
+            resultsSection.classList.remove('show');
+            hideAllResponses();
+            queryInput.focus();
+        }
+
+        // Event listeners
+        submitButton.addEventListener('click', handleSubmit);
+        clearButton.addEventListener('click', clearQuery);
+
+        // Enter key support
+        queryInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && !queryInput.disabled) {
+                handleSubmit();
+            }
+        });
+
+        // Auto-focus on load
+        window.addEventListener('load', () => {
+            queryInput.focus();
+        });
+
+        // Clear results when input is empty
+        queryInput.addEventListener('input', function() {
+            if (this.value.trim() === '') {
+                resultsSection.classList.remove('show');
+                hideAllResponses();
+            }
+        });
+
+        // Demo mode - remove this section when connecting to real backend
+        // This simulates a backend response for demonstration purposes
+        window.demoMode = true;
+        
+        if (window.demoMode) {
+            const originalSendQuery = sendQuery;
+            window.sendQuery = async function(query) {
+                // Simulate network delay
+                await new Promise(resolve => setTimeout(resolve, 1000 + Math.random() * 2000));
+                
+                // Simulate different response types
+                const responses = [
+                    { response: `Thank you for asking about "${query}". Here's a detailed response to your query with some helpful information and insights.` },
+                    { answer: `Based on your query "${query}", I can provide the following analysis and recommendations for your consideration.` },
+                    { response: `Your question about "${query}" is interesting. Let me break this down into several key points that should help clarify the topic.` }
+                ];
+                
+                // Occasionally simulate an error (10% chance)
+                if (Math.random() < 0.1) {
+                    throw new Error('Service temporarily unavailable');
+                }
+                
+                return responses[Math.floor(Math.random() * responses.length)];
+            };
+        }
+    </script>
+</body>
+</html>
