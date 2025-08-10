@@ -10,6 +10,7 @@ import os
 from typing import Optional, List, Dict, Any
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
+from .llm import create_response
 
 credential = AzureKeyCredential(os.environ["AZURE_SEARCH_KEY"])
 search_client = SearchClient(
@@ -47,5 +48,6 @@ def _search_documents(query: str, top_k: int = 5) -> List[Dict[str, Any]]:
 
 def answer_query(query: str) -> str:
     results = _search_documents(query)
+    response = create_response(results)
 
-    return f"You search returned: {results}"
+    return response
