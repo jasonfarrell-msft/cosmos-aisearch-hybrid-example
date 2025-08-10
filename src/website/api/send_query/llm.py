@@ -11,7 +11,7 @@ client = AzureOpenAI(
 
 def create_response(results: List[Dict[str, Any]]) -> str:
     response = client.chat.completions.create(
-        model="gpt5-nano-deployment",
+        model="gpt-5-nano-deployment",
         messages=[
             {"role": "system", "content": "You are a helpful assistant that summarizes search results."},
             {"role": "user", "content": f"""
