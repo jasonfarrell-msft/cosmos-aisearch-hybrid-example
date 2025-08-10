@@ -2,6 +2,7 @@
 import logging
 import json
 import azure.functions as func
+from .answer_generator import generate_answer
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
@@ -27,15 +28,18 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
             )
         
         # Return success with the query value
-        response_data = {
-            "query": query,
-            "message": "Query received successfully"
-        }
+        try:
+            answer = generate_answer(query)
+        except ValueError as ve:
+            return func.HttpResponse(
+                f"Error processing query: {str(ve)}",
+                status_code=400
+            )
         
         return func.HttpResponse(
-            json.dumps(response_data),
+            answer,
             status_code=200,
-            headers={"Content-Type": "application/json"}
+            headers={"Content-Type": "text/plain"}
         )
         
     except ValueError:
