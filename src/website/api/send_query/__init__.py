@@ -1,5 +1,6 @@
 
 import logging
+import json
 import azure.functions as func
 
 from .answer_generator import answer_query
@@ -37,9 +38,9 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
             )
         
         return func.HttpResponse(
-            answer,
+            json.dumps({"response": answer}),
             status_code=200,
-            headers={"Content-Type": "text/plain"}
+            headers={"Content-Type": "application/json"}
         )
         
     except ValueError:

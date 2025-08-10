@@ -90,8 +90,8 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
 
-                const data = await response.text();
-                return data;
+                const data = await response.json();
+                return data.response;
             } catch (error) {
                 throw error;
             }
