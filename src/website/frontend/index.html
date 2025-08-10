@@ -56,7 +56,7 @@
         const clearButton = document.getElementById('clearButton');
 
         // Configuration - update this URL to point to your backend
-        const BACKEND_URL = 'https://your-backend-api.com/query';
+        const BACKEND_URL = 'https://brave-mud-09c6f820f.2.azurestaticapps.net/api/send_query';
 
         function hideAllResponses() {
             loadingContainer.classList.remove('show');
@@ -176,32 +176,6 @@
                 hideAllResponses();
             }
         });
-
-        // Demo mode - remove this section when connecting to real backend
-        // This simulates a backend response for demonstration purposes
-        window.demoMode = true;
-        
-        if (window.demoMode) {
-            const originalSendQuery = sendQuery;
-            window.sendQuery = async function(query) {
-                // Simulate network delay
-                await new Promise(resolve => setTimeout(resolve, 1000 + Math.random() * 2000));
-                
-                // Simulate different response types
-                const responses = [
-                    { response: `Thank you for asking about "${query}". Here's a detailed response to your query with some helpful information and insights.` },
-                    { answer: `Based on your query "${query}", I can provide the following analysis and recommendations for your consideration.` },
-                    { response: `Your question about "${query}" is interesting. Let me break this down into several key points that should help clarify the topic.` }
-                ];
-                
-                // Occasionally simulate an error (10% chance)
-                if (Math.random() < 0.1) {
-                    throw new Error('Service temporarily unavailable');
-                }
-                
-                return responses[Math.floor(Math.random() * responses.length)];
-            };
-        }
     </script>
 </body>
 </html>
