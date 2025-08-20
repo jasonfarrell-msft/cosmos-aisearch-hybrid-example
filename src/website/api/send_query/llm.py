@@ -29,9 +29,9 @@ def create_response(results: List[Dict[str, Any]]) -> str:
              Format this for an HTML response. Names should have a strong tag around the content.
              
              Example:
-             <strong>Maurice Quinn</strong> — MidAmerican Energy</strong><br />
-             Email: maurice.quinn@midamerican.com | Phone: 7022098303<br />
-             Answer: All BHE entities use the supplier's W9 to determine state residency, and accounting charge codes are used to determine where project work was performed.
+             <div><strong>Maurice Quinn</strong> — MidAmerican Energy</strong></div>
+             <div>Email: maurice.quinn@midamerican.com | Phone: 7022098303</div>
+             <div>Answer: All BHE entities use the supplier's W9 to determine state residency, and accounting charge codes are used to determine where project work was performed.</div>
              <br />&nbsp;
              """}
         ]
