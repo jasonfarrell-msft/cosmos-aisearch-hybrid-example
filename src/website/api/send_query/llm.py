@@ -27,7 +27,13 @@ def create_response(results: List[Dict[str, Any]]) -> str:
              Include the name, company, and contact information for the person giving the answer.
              Place a newline after each user specific response.
              Format this for an HTML response. Names should have a strong tag around the content.
-             Return only the summary and no additional context or information"""}
+             
+             Example:
+             <strong>Maurice Quinn</strong> — MidAmerican Energy</strong><br />
+             Email: maurice.quinn@midamerican.com | Phone: 7022098303<br />
+             Answer: All BHE entities use the supplier's W9 to determine state residency, and accounting charge codes are used to determine where project work was performed.
+             <br />&nbsp;
+             """}
         ]
     )
     return response.choices[0].message.content or "No response"
