@@ -38,9 +38,9 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
             )
         
         return func.HttpResponse(
-            json.dumps({"response": answer}),
+            answer,
             status_code=200,
-            headers={"Content-Type": "application/json"}
+            headers={"Content-Type": "text/html"}
         )
         
     except ValueError:

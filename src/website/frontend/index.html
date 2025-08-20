@@ -90,8 +90,8 @@
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
 
-                const data = await response.json();
-                return data.response;
+                const html = await response.text();
+                return html;
             } catch (error) {
                 throw error;
             }
@@ -115,11 +115,11 @@
 
             try {
                 // Send query to backend
-                const result = await sendQuery(query);
+                const htmlResult = await sendQuery(query);
                 
                 // Hide loading and show response
                 loadingContainer.classList.remove('show');
-                responseText.textContent = result.response || result.answer || JSON.stringify(result, null, 2);
+                responseText.innerHTML = htmlResult;
                 responseContainer.classList.add('show');
                 
                 // Success animation
