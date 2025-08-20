@@ -26,6 +26,7 @@ def create_response(results: List[Dict[str, Any]]) -> str:
              Avoid lists when responding.
              Include the name, company, and contact information for the person giving the answer.
              Place a newline after each user specific response.
+             Format this for an HTML response. Names should have a strong tag around the content.
              Return only the summary and no additional context or information"""}
         ]
     )
