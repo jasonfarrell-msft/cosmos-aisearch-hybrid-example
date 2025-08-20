@@ -3,6 +3,9 @@ import os
 from typing import Dict, List, Any
 from openai import AzureOpenAI
 
+from dotenv import load_dotenv
+load_dotenv()
+
 client = AzureOpenAI(
     api_key=os.environ["AZURE_OPENAI_API_KEY"],
     api_version="2024-12-01-preview",
@@ -13,13 +16,16 @@ def create_response(results: List[Dict[str, Any]]) -> str:
     response = client.chat.completions.create(
         model="gpt-5-nano-deployment",
         messages=[
-            {"role": "system", "content": "You are a helpful assistant that summarizes search results."},
+            {"role": "system", "content": "You are a helpful assistant that summarizes search results into natural language as part of a chat experience. Do not use lists.."},
             {"role": "user", "content": f"""
              Please summarize these search results:
              -----------------------------------------
              {results}
              -----------------------------------------
-             
+
+             Avoid lists when responding.
+             Include the name, company, and contact information for the person giving the answer.
+             Place a newline after each user specific response.
              Return only the summary and no additional context or information"""}
         ]
     )
