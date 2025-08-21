@@ -1,0 +1,11 @@
+# requirements.txt
+# Dependencies to:
+# - load configuration from a .env file
+# - connect to and read from Azure Cosmos DB
+# - connect to and update entries in an Azure AI (Cognitive) Search index
+# - traverse Cosmos DB documents by key
+
+python-dotenv
+azure-cosmos
+azure-search-documents
+azure-identity
