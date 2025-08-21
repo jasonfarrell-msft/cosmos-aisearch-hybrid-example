@@ -2,12 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Attach to .NET Functions",
-      "type": "coreclr",
-      "request": "attach",
-      "processId": "${command:azureFunctions.pickProcess}"
-    },
-    {
       "name": "Launch .NET Functions Project",
       "type": "coreclr",
       "request": "launch",
@@ -24,6 +18,12 @@
         "AzureWebJobsScriptRoot": "${workspaceFolder}",
         "AzureFunctionsJobHost__Logging__Console__IsEnabled": "true"
       }
+    },
+    {
+      "name": "Attach to .NET Functions",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:azureFunctions.pickProcess}"
     }
   ]
 }

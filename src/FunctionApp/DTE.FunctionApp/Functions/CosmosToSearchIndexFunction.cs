@@ -46,6 +46,7 @@ namespace DTE.FunctionApp.Functions
                         SurveyEnd = respondentData.SurveyEnd,
                         Question = qa.Question,
                         Answer = qa.Answer,
+                        Company = respondentData.Company
                     })
                     .Where(x => string.IsNullOrEmpty(x.Answer) == false)
                     .ToList();

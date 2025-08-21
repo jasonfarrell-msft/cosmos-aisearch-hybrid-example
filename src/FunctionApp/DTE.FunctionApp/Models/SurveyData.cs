@@ -16,6 +16,7 @@ namespace DTE.FunctionApp.Models
         public DateTime SurveyEnd { get; internal set; }
         public string Question { get; internal set; }
         public string Answer { get; internal set; }
+        public string Company { get; internal set; }
 
         public string id { get => GetDeterministicId(RespondentId, SurveyId, Question).ToString(); }
 
